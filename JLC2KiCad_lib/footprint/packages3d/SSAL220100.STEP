@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 
-'${MYPARTS}/SSAL220100.step',
+'${GLOWINGKITTYPARTS}/SSAL220100.step',
 /* time_stamp */ '2022-01-31T16:27:35+01:00',
 /* author */ (''),
 /* organization */ (''),

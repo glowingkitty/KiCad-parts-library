@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 
-'${MYPARTS}/JLC2KiCad_lib/footprint/packages3d/GMA4030H11-F26.step',
+'${GLOWINGKITTYPARTS}/JLC2KiCad_lib/footprint/packages3d/GMA4030H11-F26.step',
 /* time_stamp */ '2022-04-16T22:21:10+02:00',
 /* author */ (''),
 /* organization */ (''),

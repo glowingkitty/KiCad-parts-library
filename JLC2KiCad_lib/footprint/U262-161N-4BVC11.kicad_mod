@@ -42,7 +42,7 @@
   (fp_text user REF** (at 0 8.179997) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model "${MYPARTS}/footprint/packages3d/U262-161N-4BVC11.wrl"
+  (model "${GLOWINGKITTYPARTS}/footprint/packages3d/U262-161N-4BVC11.wrl"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -180))

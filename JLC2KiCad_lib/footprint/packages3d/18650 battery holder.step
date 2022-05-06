@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 
-'${MYPARTS}/18650 hattery holder/18650 battery holder.step',
+'${GLOWINGKITTYPARTS}/18650 hattery holder/18650 battery holder.step',
 /* time_stamp */ '2022-03-19T13:46:18+01:00',
 /* author */ (''),
 /* organization */ (''),

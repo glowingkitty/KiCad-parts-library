@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 
-'${MYPARTS}/DC-042C-Z-2.5-A.step',
+'${GLOWINGKITTYPARTS}/DC-042C-Z-2.5-A.step',
 /* time_stamp */ '2022-01-24T22:33:09+01:00',
 /* author */ (''),
 /* organization */ (''),

@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 
-'${MYPARTS}/JLC2KiCad_lib/footprint/packages3d/USB-C-SMD_TYPEC-952-ACP24.s
+'${GLOWINGKITTYPARTS}/JLC2KiCad_lib/footprint/packages3d/USB-C-SMD_TYPEC-952-ACP24.s
 tep',
 /* time_stamp */ '2022-04-16T22:07:37+02:00',
 /* author */ (''),

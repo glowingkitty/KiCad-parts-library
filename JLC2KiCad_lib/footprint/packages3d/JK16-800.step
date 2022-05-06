@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 
-'${MYPARTS}/JLC2KiCad_lib/footprint/packages3d/JK16-800.step',
+'${GLOWINGKITTYPARTS}/JLC2KiCad_lib/footprint/packages3d/JK16-800.step',
 /* time_stamp */ '2022-04-26T19:09:50+02:00',
 /* author */ (''),
 /* organization */ (''),

@@ -60,7 +60,7 @@
   (pad "B10" smd rect (at 1.750064 1.040005) (size 0.28001 1.059995) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c081e03d-3d5d-455e-8b4d-68988c53e2db))
   (pad "B11" smd rect (at 2.249936 1.040005) (size 0.28001 1.059995) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 00ccedde-0421-4186-b7b9-1973d60fe6d5))
   (pad "B12" smd rect (at 2.750064 1.040005) (size 0.28001 1.059995) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0b953b07-3e1b-42f4-a16f-8f74fa604dc4))
-  (model "${MYPARTS}/footprint/packages3d/USB-C-SMD_TYPEC-952-ACP24.step"
+  (model "${GLOWINGKITTYPARTS}/footprint/packages3d/USB-C-SMD_TYPEC-952-ACP24.step"
     (offset (xyz 0 0 10))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

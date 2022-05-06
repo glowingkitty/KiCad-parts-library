@@ -29,7 +29,7 @@
   (fp_text user REF** (at 0 5.25997) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model "${MYPARTS}/footprint/packages3d/TSOT-23-8_L2.9-W1.6-P0.65-LS2.8-BL.wrl"
+  (model "${GLOWINGKITTYPARTS}/footprint/packages3d/TSOT-23-8_L2.9-W1.6-P0.65-LS2.8-BL.wrl"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

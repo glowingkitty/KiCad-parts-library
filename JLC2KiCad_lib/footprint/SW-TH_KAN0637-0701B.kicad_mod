@@ -24,7 +24,7 @@
   (pad "2" thru_hole circle (at 2.249936 -0.975044) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask) (tstamp 199ade13-7442-4da9-8eea-a8e7681e2aee))
   (pad "3" thru_hole circle (at -3.599949 -3.474917) (size 2.1 2.1) (drill 1.300025) (layers *.Cu *.Mask) (tstamp b8381d48-3c5b-401b-ac19-279d8173864c))
   (pad "4" thru_hole circle (at 3.599949 -3.474917) (size 2.1 2.1) (drill 1.300025) (layers *.Cu *.Mask) (tstamp b4856fa9-d711-4b3f-8ccf-343375c62dce))
-  (model "${MYPARTS}/footprint/packages3d/SW-TH_KAN0637-0701B.step"
+  (model "${GLOWINGKITTYPARTS}/footprint/packages3d/SW-TH_KAN0637-0701B.step"
     (offset (xyz 0 3.65 -5.6))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

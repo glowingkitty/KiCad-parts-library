@@ -160,9 +160,9 @@
   (pad "39" smd rect (at -0.2449 3.1417) (size 1.33 1.33) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a4122c4f-3dfa-42a3-9af2-06c0fa8fad4d))
   (pad "39" smd rect (at -0.2449 1.3067) (size 1.33 1.33) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c79f769e-3739-457d-857c-6d20c57f7989))
   (pad "39" smd rect (at -2.0799 1.3067) (size 1.33 1.33) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fa0f486d-a1e3-4aec-b0f8-8bef7013d0f2))
-  (model "${MYPARTS}/footprint/packages3d/WIFI-SMD_ESP32-WROOM-32E.wrl"
-    (offset (xyz 0 0 0))
+  (model "${GLOWINGKITTYPARTS}/footprint/packages3d/ESP32-WROOM-32E (16MB).STEP"
+    (offset (xyz 0.74 0.93 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 -180))
+    (rotate (xyz -90 0 0))
   )
 )

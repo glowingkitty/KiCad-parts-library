@@ -32,7 +32,7 @@
   (fp_text user REF** (at 0 5.510579) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model "${MYPARTS}/footprint/packages3d/MIC-SMD_8P-L3.0-W4.0-P0.85-BL.wrl"
+  (model "${GLOWINGKITTYPARTS}/footprint/packages3d/MIC-SMD_8P-L3.0-W4.0-P0.85-BL.wrl"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -180))

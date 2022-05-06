@@ -39,7 +39,7 @@
   (pad "SHELL" thru_hole oval (at -4.220041 1.292494) (size 1.2 1.8) (drill oval 0.700025 1.3) (layers *.Cu *.Mask) (tstamp c22b84c8-6c2f-4c49-947a-d16e596f86fa))
   (pad "SHELL" thru_hole oval (at 4.420041 1.292494) (size 1.2 1.8) (drill oval 0.700025 1.3) (layers *.Cu *.Mask) (tstamp d4e12fe5-f3b4-4a83-be3a-9659e6be610a))
   (pad "SHELL" thru_hole oval (at 4.420041 -2.887592) (size 1.2 2.2) (drill oval 0.700025 1.8) (layers *.Cu *.Mask) (tstamp fd15378d-a439-4ad3-b789-7c1bfe741115))
-  (model "${MYPARTS}/footprint/packages3d/TYPE-C-31-M-12--3DModel-STEP-56544.STEP"
+  (model "${GLOWINGKITTYPARTS}/footprint/packages3d/TYPE-C-31-M-12--3DModel-STEP-56544.STEP"
     (offset (xyz 0.1 -1.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

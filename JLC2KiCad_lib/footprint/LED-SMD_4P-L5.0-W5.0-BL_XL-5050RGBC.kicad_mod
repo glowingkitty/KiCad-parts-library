@@ -32,7 +32,7 @@
   (pad "2" smd rect (at 1.499746 2.65 90) (size 1.5 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9b5c1e4c-4d32-401c-80df-60f481bdd132))
   (pad "3" smd rect (at -1.5 -2.35 90) (size 1.5 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 094aaec7-4d5f-45bb-be02-fe2cd68b89c7))
   (pad "4" smd rect (at 1.499746 -2.35 90) (size 1.5 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 908db251-4a36-43b8-9938-c6416cfa009f))
-  (model "${MYPARTS}/footprint/packages3d/LED-SMD_4P-L5.0-W5.0-BL_XL-5050RGBC.wrl"
+  (model "${GLOWINGKITTYPARTS}/footprint/packages3d/LED-SMD_4P-L5.0-W5.0-BL_XL-5050RGBC.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -270))

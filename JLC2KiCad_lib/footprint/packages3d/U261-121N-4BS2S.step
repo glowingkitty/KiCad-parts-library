@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 
-'${MYPARTS}/USBCmale/footprint/U261-121N-4BS2S.step',
+'${GLOWINGKITTYPARTS}/USBCmale/footprint/U261-121N-4BS2S.step',
 /* time_stamp */ '2022-01-31T22:03:30+01:00',
 /* author */ (''),
 /* organization */ (''),

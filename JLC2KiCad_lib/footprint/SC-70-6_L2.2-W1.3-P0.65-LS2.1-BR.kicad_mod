@@ -27,7 +27,7 @@
   (pad "4" smd rect (at -0.949962 -0.649987 270) (size 0.41999 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp edae224e-e14d-4290-a0e2-b4931f6a231e))
   (pad "5" smd rect (at -0.949962 0 270) (size 0.41999 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e9d35786-cb1d-4e62-bc31-4ac4c77726b1))
   (pad "6" smd rect (at -0.949962 0.649987 270) (size 0.41999 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e99c2bb4-7a57-4e26-8d0c-400dab99a963))
-  (model "${MYPARTS}/footprint/packages3d/SC70-6.step"
+  (model "${GLOWINGKITTYPARTS}/footprint/packages3d/SC70-6.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

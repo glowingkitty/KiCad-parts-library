@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 
-'${MYPARTS}/JLC2KiCad_lib/footprint/packages3d/SMTSO3060CTJ.step',
+'${GLOWINGKITTYPARTS}/JLC2KiCad_lib/footprint/packages3d/SMTSO3060CTJ.step',
 /* time_stamp */ '2022-04-23T16:34:34+02:00',
 /* author */ (''),
 /* organization */ (''),

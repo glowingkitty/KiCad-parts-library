@@ -31,7 +31,7 @@
   (pad "7" smd rect (at -0.635001 -2.772416) (size 0.6 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 37bfac39-f82e-455b-8e7c-38550acfced8))
   (pad "8" smd rect (at -1.905004 -2.772416) (size 0.6 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 42c8b4e1-e192-4502-9954-80699d9bcf98))
   (pad "9" smd rect (at 0 0) (size 2.971 2.184) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5da5516b-1f3a-40a3-9dfa-694ea949ae38))
-  (model "${MYPARTS}/footprint/packages3d/SOP-8.STEP"
+  (model "${GLOWINGKITTYPARTS}/footprint/packages3d/SOP-8.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

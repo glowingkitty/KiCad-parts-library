@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 
-'${MYPARTS}/18650_battery.step',
+'${GLOWINGKITTYPARTS}/18650_battery.step',
 /* time_stamp */ '2022-04-17T14:34:57+02:00',
 /* author */ (''),
 /* organization */ (''),

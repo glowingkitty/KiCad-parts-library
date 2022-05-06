@@ -21,7 +21,7 @@
   (fp_text user REF** (at 0 5.550038) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model "${MYPARTS}/footprint/packages3d/FUSE-TH_L13.0-W3.1-P5.08-D1.2.wrl"
+  (model "${GLOWINGKITTYPARTS}/footprint/packages3d/FUSE-TH_L13.0-W3.1-P5.08-D1.2.wrl"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
