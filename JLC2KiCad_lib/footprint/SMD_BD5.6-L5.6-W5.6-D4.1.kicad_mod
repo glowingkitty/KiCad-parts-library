@@ -34,7 +34,7 @@
   (pad "1" smd circle (at -1.9558 1.9558) (size 0.8 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d2e54e99-365b-4447-8c9a-b93d5af611c4))
   (pad "1" smd circle (at 2.7432 0) (size 0.8 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e4633e9f-91f6-483b-bc6a-1dfbb0f25ccd))
   (pad "1" smd circle (at -1.0922 -2.54) (size 0.8 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e5b62b75-20f5-4dd0-8882-303cab01c708))
-  (model "${KICAD_PARTS}/JLC2KiCad_lib/footprint/packages3d/SMTSO3015CTJ.step"
+  (model "${MYPARTS}/footprint/packages3d/SMTSO3015CTJ.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

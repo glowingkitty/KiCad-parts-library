@@ -29,7 +29,7 @@
   (pad "1" thru_hole oval (at -1.506604 -4.913259 90) (size 1.6 3) (drill oval 0.900025 2.1) (layers *.Cu *.Mask) (tstamp ba544a9a-4433-409c-b6f9-cde949ef21a0))
   (pad "2" thru_hole oval (at -1.006477 -0.063373 90) (size 3.2 1.6) (drill oval 2.500025 0.900025) (layers *.Cu *.Mask) (tstamp 298dc87c-1a11-4242-9e35-0571ed032330))
   (pad "3" thru_hole circle (at 6.693548 -0.063373) (size 2.3 2.3) (drill 1.500025) (layers *.Cu *.Mask) (tstamp 97a7dd4e-51d7-4a2a-8ba1-962e8601d5a6))
-  (model "${KICAD_PARTS}/JLC2KiCad_lib/footprint/packages3d/DC-IN-TH_DC-042C-Z-2.5-A.step"
+  (model "${MYPARTS}/footprint/packages3d/DC-IN-TH_DC-042C-Z-2.5-A.step"
     (offset (xyz 0 0 8.6))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))

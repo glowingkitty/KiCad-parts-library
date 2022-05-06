@@ -17,7 +17,7 @@
   (fp_circle (center 1.905 -0.002236) (end 4.823764 -0.002236) (layer "F.Fab") (width 0.12) (fill none) (tstamp c1f86e68-48ef-4b38-bf76-4998ee0f31f9))
   (pad "1" smd rect (at 0 0) (size 2.15 5.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4261d728-bde7-48b2-a5f7-7f44b079ddfb))
   (pad "2" smd rect (at 3.85 0) (size 2.15 5.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7cb97966-cd8e-4fbd-a82b-e1c5526014c3))
-  (model "${KICAD_PARTS}/JLC2KiCad_lib/footprint/packages3d/CY54-3.3UH.step"
+  (model "${MYPARTS}/footprint/packages3d/CY54-3.3UH.step"
     (offset (xyz -7.5 -1.3 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

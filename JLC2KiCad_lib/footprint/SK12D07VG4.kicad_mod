@@ -24,7 +24,7 @@
   (pad "3" thru_hole circle (at 1.999492 -2) (size 1.524003 1.524003) (drill 0.914402) (layers *.Cu *.Mask) (tstamp d9c7502f-c085-4314-be24-9f006add6fbe))
   (pad "4" thru_hole oval (at 4.149606 -2) (size 1.4 2.2) (drill oval 0.8 1.6) (layers *.Cu *.Mask) (tstamp 3b437acd-0325-472b-aa9a-e11871bc912a))
   (pad "5" thru_hole oval (at -4.150622 -2) (size 1.4 2.2) (drill oval 0.8 1.6) (layers *.Cu *.Mask) (tstamp 8efc2a53-9dce-4b21-b941-1c3443c90166))
-  (model "${KICAD_PARTS}/JLC2KiCad_lib/footprint/packages3d/SK12D07VG4.step"
+  (model "${MYPARTS}/footprint/packages3d/SK12D07VG4.step"
     (offset (xyz 0 5.8 -3.4))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
