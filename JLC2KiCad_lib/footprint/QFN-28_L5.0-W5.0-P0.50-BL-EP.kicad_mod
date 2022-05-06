@@ -56,7 +56,7 @@
   (pad "28" smd rect (at -2.499797 1.501219 90) (size 0.28001 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ec3ad2f6-5176-4522-92d8-47f97fd04c7a))
   (pad "29" smd rect (at 0.000076 0.000076 90) (size 3.3 3.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7076bd8f-29b1-4660-bc22-b2776f04fc82))
   (model "${GLOWINGKITTYPARTS}/footprint/packages3d/CP2102-GMR.step"
-    (opacity 0.4500)    (offset (xyz 0 0 0))
+    (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))
   )
