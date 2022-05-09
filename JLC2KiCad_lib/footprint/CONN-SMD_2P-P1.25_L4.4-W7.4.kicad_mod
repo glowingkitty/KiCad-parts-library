@@ -32,8 +32,8 @@
   (pad "0" smd rect (at 3.175006 1.695009) (size 2.1 3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fc052ac4-77ec-4901-baf8-c95f94903836))
   (pad "1" smd rect (at -0.625095 -1.204915) (size 0.8 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e746ec00-0dfd-4bc7-b357-6b4860c148ef))
   (pad "2" smd rect (at 0.625095 -1.204915) (size 0.8 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 11547ba3-d459-4ced-9333-92979d5b86e1))
-  (model "${GLOWINGKITTYPARTS}/footprint/packages3d/CONN-SMD_2P-P1.25_L4.4-W7.4.wrl"
-    (offset (xyz 0.6 -1.4 0))
+  (model "${GLOWINGKITTYPARTS}/footprint/packages3d/CONN-SMD_2P-P1.25_L4.4-W7.4.step"
+    (offset (xyz 2.48 -3 -4.98))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
