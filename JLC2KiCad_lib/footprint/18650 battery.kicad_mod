@@ -1,0 +1,76 @@
+(footprint "18650 battery" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 625C0A94)
+  (property "Sheetfile" "MagiqWand pcb bottom.kicad_sch")
+  (property "Sheetname" "")
+  (attr exclude_from_pos_files)
+  (fp_text reference "B1" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 6a1058e1-cd5a-4d6a-a0d3-f55b8cf79dd1)
+  )
+  (fp_text value "18650_battery" (at 0 1 unlocked) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp db08f4db-55ab-4117-af8b-4f8a7a88e48d)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp b826df13-eff7-478e-8e4b-d67c0b7698b1)
+  )
+  (fp_line (start 27.419224 8.8266) (end 27.577995 9.1016) (layer "F.Fab") (width 0.1) (tstamp 0f43c86f-c9e5-453b-bc4a-28d6a89c041a))
+  (fp_line (start 27.837803 9.2516) (end 31.9512 9.2516) (layer "F.Fab") (width 0.1) (tstamp 1da37914-7ebc-4a3a-b623-d7b9d4891949))
+  (fp_line (start 31.9512 -9.0484) (end 27.837803 -9.0484) (layer "F.Fab") (width 0.1) (tstamp 4409ef40-6921-4b79-aa25-474f44642cfb))
+  (fp_line (start 27.577995 -8.8984) (end 27.419224 -8.6234) (layer "F.Fab") (width 0.1) (tstamp 551e918f-ec17-41f9-9023-08020ac28798))
+  (fp_line (start 26.924405 9.1016) (end 27.083176 8.8266) (layer "F.Fab") (width 0.1) (tstamp 784663c6-9b89-4296-a1fa-874a3d6ea919))
+  (fp_line (start 27.28932 -8.5484) (end 27.21308 -8.5484) (layer "F.Fab") (width 0.1) (tstamp 81e09d26-4fd6-4eb8-acbb-c0029bb549b8))
+  (fp_line (start 27.21308 8.7516) (end 27.28932 8.7516) (layer "F.Fab") (width 0.1) (tstamp ad7ffde6-ec59-4e30-845f-cc0c43b25997))
+  (fp_line (start 27.083176 -8.6234) (end 26.924405 -8.8984) (layer "F.Fab") (width 0.1) (tstamp c285a3d4-9888-4cdb-b5a2-b6caaabce8f2))
+  (fp_line (start -31.9488 9.2516) (end 26.664597 9.2516) (layer "F.Fab") (width 0.1) (tstamp ca7b009e-83ec-4c4b-be2d-999b462eecf6))
+  (fp_line (start -32.2488 -8.7484) (end -32.2488 8.9516) (layer "F.Fab") (width 0.1) (tstamp dd230ea3-afaa-497d-b127-d3d08290224d))
+  (fp_line (start 32.4012 8.8016) (end 32.4012 -8.5984) (layer "F.Fab") (width 0.1) (tstamp e01ef0cd-f84d-4748-9f02-295297a5888c))
+  (fp_line (start 26.664597 -9.0484) (end -31.9488 -9.0484) (layer "F.Fab") (width 0.1) (tstamp fd0a49c1-119d-4be3-84cb-645df9d714bb))
+  (fp_arc (start 31.9512 -9.0484) (mid 32.269398 -8.916598) (end 32.4012 -8.5984) (layer "F.Fab") (width 0.1) (tstamp 18631e45-9cd6-4fa8-b391-140bfdda2b6f))
+  (fp_arc (start -32.2488 -8.7484) (mid -32.160932 -8.960532) (end -31.9488 -9.0484) (layer "F.Fab") (width 0.1) (tstamp 2348140c-4e9f-4f1a-af98-38316a925d6d))
+  (fp_arc (start 27.28932 8.7516) (mid 27.364313 8.771704) (end 27.419224 8.8266) (layer "F.Fab") (width 0.1) (tstamp 3e324fe2-f5e0-47f5-bad5-49ceae8cebc9))
+  (fp_arc (start -31.9488 9.2516) (mid -32.160932 9.163732) (end -32.2488 8.9516) (layer "F.Fab") (width 0.1) (tstamp 4f76a31b-e54b-4346-8d73-db9ba1906f1e))
+  (fp_arc (start 27.419224 -8.6234) (mid 27.364322 -8.568489) (end 27.28932 -8.5484) (layer "F.Fab") (width 0.1) (tstamp 510bdff2-b4df-459a-bdc0-52e2d5e2eb91))
+  (fp_arc (start 26.924405 9.1016) (mid 26.814597 9.211407) (end 26.664597 9.2516) (layer "F.Fab") (width 0.1) (tstamp 5890d92a-ccff-4d86-ab9e-afceefcd6277))
+  (fp_arc (start 27.083176 8.8266) (mid 27.138078 8.771689) (end 27.21308 8.7516) (layer "F.Fab") (width 0.1) (tstamp 5d6eab97-6293-4548-a363-eec84778a419))
+  (fp_arc (start 32.4012 8.8016) (mid 32.269398 9.119798) (end 31.9512 9.2516) (layer "F.Fab") (width 0.1) (tstamp 5e352b95-a496-439c-9dae-4d98d50bb975))
+  (fp_arc (start 27.21308 -8.5484) (mid 27.138087 -8.568504) (end 27.083176 -8.6234) (layer "F.Fab") (width 0.1) (tstamp 65dbfe5e-163b-483d-9188-2ead3901c8e9))
+  (fp_arc (start 26.664597 -9.0484) (mid 26.814598 -9.008209) (end 26.924405 -8.8984) (layer "F.Fab") (width 0.1) (tstamp 8d13c151-f4fd-477b-9607-b8aa2cfd267a))
+  (fp_arc (start 27.577995 -8.8984) (mid 27.687803 -9.008207) (end 27.837803 -9.0484) (layer "F.Fab") (width 0.1) (tstamp b38c8171-cd7b-4d0f-812b-325e7de96f79))
+  (fp_arc (start 27.837803 9.2516) (mid 27.687802 9.211409) (end 27.577995 9.1016) (layer "F.Fab") (width 0.1) (tstamp ebe52941-4f6e-45b9-88df-83ba7374c4f6))
+  (group "" (id a0c15319-f691-4050-a4c3-717d5e0b6f6d)
+    (members
+      0f43c86f-c9e5-453b-bc4a-28d6a89c041a
+      18631e45-9cd6-4fa8-b391-140bfdda2b6f
+      1da37914-7ebc-4a3a-b623-d7b9d4891949
+      2348140c-4e9f-4f1a-af98-38316a925d6d
+      3e324fe2-f5e0-47f5-bad5-49ceae8cebc9
+      4409ef40-6921-4b79-aa25-474f44642cfb
+      4f76a31b-e54b-4346-8d73-db9ba1906f1e
+      510bdff2-b4df-459a-bdc0-52e2d5e2eb91
+      551e918f-ec17-41f9-9023-08020ac28798
+      5890d92a-ccff-4d86-ab9e-afceefcd6277
+      5d6eab97-6293-4548-a363-eec84778a419
+      5e352b95-a496-439c-9dae-4d98d50bb975
+      65dbfe5e-163b-483d-9188-2ead3901c8e9
+      784663c6-9b89-4296-a1fa-874a3d6ea919
+      81e09d26-4fd6-4eb8-acbb-c0029bb549b8
+      8d13c151-f4fd-477b-9607-b8aa2cfd267a
+      ad7ffde6-ec59-4e30-845f-cc0c43b25997
+      b38c8171-cd7b-4d0f-812b-325e7de96f79
+      c285a3d4-9888-4cdb-b5a2-b6caaabce8f2
+      ca7b009e-83ec-4c4b-be2d-999b462eecf6
+      dd230ea3-afaa-497d-b127-d3d08290224d
+      e01ef0cd-f84d-4748-9f02-295297a5888c
+      ebe52941-4f6e-45b9-88df-83ba7374c4f6
+      fd0a49c1-119d-4be3-84cb-645df9d714bb
+    )
+  )
+  (model "${GLOWINGKITTYPARTS}/footprint/packages3d/18650_battery.step"
+    (offset (xyz 0 0 10.71))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 90 180))
+  )
+)

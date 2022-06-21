@@ -22,7 +22,7 @@
   (pad "2" smd rect (at 4.3 -2.250013) (size 2.2 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d44616e4-d482-4f21-8267-518d075c0377))
   (pad "3" smd rect (at -4.3 2.250114) (size 2.2 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp daa6f53d-cd5b-4653-b2dd-cb80c92ad568))
   (pad "4" smd rect (at 4.3 2.250114) (size 2.2 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1070dd55-b600-4254-80cf-ba2e0f529d2d))
-  (model "${GLOWINGKITTYPARTS}/footprint/packages3d/KEY-SMD_4P-L6.0-W6.0-P4.50-LS8.6.wrl"
+  (model "${GLOWINGKITTYPARTS}/footprint/packages3d/Tact Switch SMD 6x6mm.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
