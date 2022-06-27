@@ -895,6 +895,9 @@
     (property "Datasheet" "https://item.szlcsc.com/343302.html" (id 3) (at -2.286 0.127 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
+    (property "LCSC #" "C883162" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (symbol "BSMD1812-300-16V_0_0"
       (rectangle (start -2.54 -11.684) (end 2.54 -13.716)
         (stroke (width 0) (type default) (color 0 0 0 0))
@@ -2649,6 +2652,9 @@
     (property "Datasheet" "https://item.szlcsc.com/481510.html" (id 3) (at -2.286 0.127 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
+    (property "LCSC #" "C474892" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (symbol "KF350-3_5-2P_0_0"
       (rectangle (start -2.54 -8.89) (end 2.54 -16.51)
         (stroke (width 0) (type default) (color 0 0 0 0))
@@ -3171,6 +3177,9 @@
     )
     (property "Datasheet" "https://so.szlcsc.com/global.html?c=&k=C915682" (id 3) (at -2.286 0.127 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "LCSC #" "C457290" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "QMA7981_0_0"
       (rectangle (start -11.43 -3.81) (end 11.43 -21.59)
