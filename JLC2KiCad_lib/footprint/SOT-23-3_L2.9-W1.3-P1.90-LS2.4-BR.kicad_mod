@@ -3,7 +3,7 @@
   (tedit 625BEDAA)
   (descr "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR footprint")
   (tags "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR footprint")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at 0 -3.526213) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp d36ce59f-78a3-45a2-948c-2c5ba165d912)
