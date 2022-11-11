@@ -61,8 +61,8 @@
   (pad "4" thru_hole circle (at -0.099949 2.50127) (size 2 2) (drill 1.300025) (layers *.Cu *.Mask) (tstamp bb6c4423-8ffe-46e1-b434-3068a54b3cfc))
   (pad "5" thru_hole circle (at -0.099949 7.5) (size 2 2) (drill 1.300025) (layers *.Cu *.Mask) (tstamp 3578c5b0-49af-4e78-b177-dedf2da30cd3))
   (pad "6" thru_hole circle (at -0.099949 12.50127) (size 2 2) (drill 1.300025) (layers *.Cu *.Mask) (tstamp 3398755a-2c2d-4939-946e-b8fa8ba6670c))
-  (model "${GLOWINGKITTYPARTS}/footprint/packages3d/CONN-TH_6P-P5.00_WJ126V-5.0-6P.wrl"
-    (offset (xyz 0 15 5.1))
+  (model "${GLOWINGKITTYPARTS}/footprint/packages3d/CONN-TH_6P-P5.00_WJ126V-5.0-6P v2.step"
+    (offset (xyz 1.5 0.4 -0.12))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -180))
   )
