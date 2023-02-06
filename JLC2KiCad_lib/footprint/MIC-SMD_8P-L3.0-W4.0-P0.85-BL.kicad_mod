@@ -39,8 +39,8 @@
   (pad "7" smd rect (at -1.724968 -0.009512) (size 0.450013 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8f3eb88d-9ce9-4013-ad67-32b8876a01b4))
   (pad "8" smd rect (at -0.000051 1.215532) (size 2.4 0.450013) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp dfdae403-bb08-48d4-b042-b5f0fa182e90))
   (model "${GLOWINGKITTYPARTS}/footprint/packages3d/MSM261D4030H1CPM.step"
-    (offset (xyz 0 0 -0.1))
+    (offset (xyz 0 0 0.9))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 0 -90))
   )
 )

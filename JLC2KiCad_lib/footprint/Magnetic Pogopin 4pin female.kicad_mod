@@ -1,0 +1,62 @@
+(footprint "Magnetic Pogopin 4pin female" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 5bd63182-338c-49d6-bc4d-b07387c368d8)
+  )
+  (fp_text value "Magnetic Pogopin 4pin female" (at 0 1 unlocked) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 65e98658-01f1-42d5-9335-9fc039668872)
+  )
+  (fp_line (start 1.31 6.62) (end 4.81 6.62) (layer "F.SilkS") (width 0.1) (tstamp 07fa1f6a-c841-4987-999f-6c07e248e6c0))
+  (fp_line (start 0.81 16.12) (end 0.81 7.12) (layer "F.SilkS") (width 0.1) (tstamp 10e30fd8-2fa5-43b7-a421-54723edfc507))
+  (fp_line (start 4.81 16.62) (end 1.31 16.62) (layer "F.SilkS") (width 0.1) (tstamp 7b1e35df-b7db-45eb-91a2-2af786197e10))
+  (fp_line (start 5.31 7.12) (end 5.31 16.12) (layer "F.SilkS") (width 0.1) (tstamp aa701039-28d4-41c7-919b-a7232e13a556))
+  (fp_line (start 0.01 3.12) (end 0.01 20.12) (layer "F.SilkS") (width 0.1) (tstamp e2c5b951-bbd1-421b-937e-1f032387c787))
+  (fp_line (start 6.11 20.12) (end 6.11 3.12) (layer "F.SilkS") (width 0.1) (tstamp f8d721d1-e9d4-456f-bf56-2112c27a8f78))
+  (fp_arc (start 1.31 16.62) (mid 0.956447 16.473553) (end 0.81 16.12) (layer "F.SilkS") (width 0.1) (tstamp 0a83c6b7-12f3-43b6-be17-34808ee7e213))
+  (fp_arc (start 6.11 20.12) (mid 3.06 23.17) (end 0.01 20.12) (layer "F.SilkS") (width 0.1) (tstamp 2ebd7494-c463-4406-bb5e-ae13befbac3b))
+  (fp_arc (start 4.81 6.62) (mid 5.163553 6.766447) (end 5.31 7.12) (layer "F.SilkS") (width 0.1) (tstamp 34508701-60b3-445b-9f82-d4057050bb90))
+  (fp_arc (start 0.81 7.12) (mid 0.956447 6.766447) (end 1.31 6.62) (layer "F.SilkS") (width 0.1) (tstamp 809269b2-55de-4a75-a33e-e211037bbcff))
+  (fp_arc (start 5.31 16.12) (mid 5.163553 16.473553) (end 4.81 16.62) (layer "F.SilkS") (width 0.1) (tstamp e3182f1d-9c1b-4aec-bbd1-c6762987abee))
+  (fp_arc (start 0.01 3.12) (mid 3.06 0.07) (end 6.11 3.12) (layer "F.SilkS") (width 0.1) (tstamp fd71d355-cbb3-4bab-bebf-929d7e4fe9dd))
+  (fp_circle (center 3.06 3.12) (end 3.06 1.02) (layer "F.SilkS") (width 0.1) (fill none) (tstamp 5cc419e6-f6cb-4d62-b27a-d364b75c3c00))
+  (fp_circle (center 3.06 8.32) (end 3.06 7.82) (layer "F.SilkS") (width 0.1) (fill none) (tstamp 6b660960-970d-4b27-9120-7e227ded3bdc))
+  (fp_circle (center 3.06 10.52) (end 3.06 10.02) (layer "F.SilkS") (width 0.1) (fill none) (tstamp 82132596-b334-462d-8d70-7f3cb7dd137c))
+  (fp_circle (center 3.06 14.92) (end 3.06 14.42) (layer "F.SilkS") (width 0.1) (fill none) (tstamp 834e2fb6-d339-4dc9-a603-1d213b75e25d))
+  (fp_circle (center 3.06 20.12) (end 3.06 18.02) (layer "F.SilkS") (width 0.1) (fill none) (tstamp c2d0c75e-04f0-49d8-9504-158646348fe2))
+  (fp_circle (center 3.06 12.72) (end 3.06 12.22) (layer "F.SilkS") (width 0.1) (fill none) (tstamp c350fa61-d107-460d-94c0-ca0239911a9c))
+  (pad "1" thru_hole circle (at 3.06 8.31) (size 1.85 1.85) (drill 1.25) (layers *.Cu *.Mask) (tstamp b46b90b8-fc5f-4c7c-a13f-0d049518aa77))
+  (pad "2" thru_hole circle (at 3.06 10.52) (size 1.85 1.85) (drill 1.25) (layers *.Cu *.Mask) (tstamp fa761eb3-cc50-4b44-a604-dc5f3649eac4))
+  (pad "3" thru_hole circle (at 3.06 12.72) (size 1.85 1.85) (drill 1.25) (layers *.Cu *.Mask) (tstamp 3abb83f3-d229-4984-8c84-6bebc7cfc45c))
+  (pad "4" thru_hole circle (at 3.06 14.92) (size 1.85 1.85) (drill 1.25) (layers *.Cu *.Mask) (tstamp 123fba61-b68a-4f6c-834a-a246919ab23a))
+  (group "" (id 18c181c9-d67e-483b-8677-17eb5222eb03)
+    (members
+      07fa1f6a-c841-4987-999f-6c07e248e6c0
+      0a83c6b7-12f3-43b6-be17-34808ee7e213
+      10e30fd8-2fa5-43b7-a421-54723edfc507
+      2ebd7494-c463-4406-bb5e-ae13befbac3b
+      34508701-60b3-445b-9f82-d4057050bb90
+      5cc419e6-f6cb-4d62-b27a-d364b75c3c00
+      6b660960-970d-4b27-9120-7e227ded3bdc
+      7b1e35df-b7db-45eb-91a2-2af786197e10
+      809269b2-55de-4a75-a33e-e211037bbcff
+      82132596-b334-462d-8d70-7f3cb7dd137c
+      834e2fb6-d339-4dc9-a603-1d213b75e25d
+      aa701039-28d4-41c7-919b-a7232e13a556
+      c2d0c75e-04f0-49d8-9504-158646348fe2
+      c350fa61-d107-460d-94c0-ca0239911a9c
+      e2c5b951-bbd1-421b-937e-1f032387c787
+      e3182f1d-9c1b-4aec-bbd1-c6762987abee
+      f8d721d1-e9d4-456f-bf56-2112c27a8f78
+      fd71d355-cbb3-4bab-bebf-929d7e4fe9dd
+    )
+  )
+  (model "${GLOWINGKITTYPARTS}/footprint/packages3d/magnetic pogo pin connector 4 pin female.step"
+    (offset (xyz 3.06 -11.63 4.7))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
+  )
+)

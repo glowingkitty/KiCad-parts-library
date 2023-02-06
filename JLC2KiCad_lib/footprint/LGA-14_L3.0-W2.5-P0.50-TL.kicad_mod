@@ -41,9 +41,9 @@
   (pad "12" smd rect (at 0.500127 -1.012548) (size 0.28001 0.675006) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 46d821cc-ac55-46ad-9397-66d3237289de))
   (pad "13" smd rect (at 0 -1.012548) (size 0.28001 0.675006) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0c062bee-8d31-483e-a131-4f2c443f0842))
   (pad "14" smd rect (at -0.499873 -1.012548) (size 0.28001 0.675006) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 40ca78cb-9974-4143-a821-07fc00a40fa8))
-  (model "${GLOWINGKITTYPARTS}/footprint/packages3d/LGA-14_L3.0-W2.5-P0.50-TL.wrl"
+  (model "${GLOWINGKITTYPARTS}/footprint/packages3d/LSM6DS3TR-C.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 0 180))
   )
 )
